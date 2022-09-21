@@ -25,7 +25,7 @@ func (r reac2) perim() float64 {
 	return 2*r.width + 2*r.height
 }
 
-//Unlike other languages like Java, you don’t need to explicitly specify that a type implements an interface using something like an implements keyword. You just implement all the methods declared in the interface and you’re done.
+// Unlike other languages like Java, you don’t need to explicitly specify that a type implements an interface using something like an implements keyword. You just implement all the methods declared in the interface and you’re done.
 func (c circle) area() float64 {
 	return math.Pi * c.radius * c.radius
 }
