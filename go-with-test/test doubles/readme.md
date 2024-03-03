@@ -1,0 +1,1 @@
+go run -mod=mod entgo.io/ent/cmd/ent describe .\adapters\driven\persistence\sqlite\ent\schema\
