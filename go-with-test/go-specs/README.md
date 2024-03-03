@@ -1,0 +1,1 @@
+[Go here :)](https://github.com/quii/learn-go-with-tests/blob/main/scaling-acceptance-tests.md)
